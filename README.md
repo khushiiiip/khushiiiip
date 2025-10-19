@@ -33,7 +33,7 @@
 
 ---
 ### ☕ Fun Little Things  
-> 🌳 I have a favorite tree outside my window — it’s my coding buddy.  
+> 🌳 I have a tree outside my window and I love it.  
 >  
 > 🎬 When I’m not debugging, I’m watching Pixar movies (Wall-E, Ratatouille, list is endless!!).  
   
