@@ -47,11 +47,9 @@
 </p>
 
 ---
-
 <p align="center">
-  <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+  🌿I am always up to discuss movies 🌿  
 </p>
-
 ---
 
 <p align="center">
