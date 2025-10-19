@@ -48,10 +48,7 @@
 
 ---
 <p align="center">
-  🌿I am always up to discuss movies 🌿  
+  I'm always up to discuss movies 😁
 </p>
----
 
-<p align="center">
-  🌿 *Thanks for reading — may your code compile, your coffee stay warm, and your window view stay green.* 🌿  
-</p>
+
