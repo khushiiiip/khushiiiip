@@ -24,11 +24,14 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=khushiiiip&theme=rose_pine" alt="Khushi's Contribution Graph" />
 </p>
 ---
-### 📊 GitHub Stats
+### 🧭 My Activity Overview
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khushiiiip&show_icons=true&theme=rose_pine" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KhushiPanghal&theme=rose_pine" alt="Khushi's Productive Time"/>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khushiiiip&theme=rose_pine" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KhushiPanghal&theme=rose_pine" alt="Khushi's GitHub Stats Summary"/>
+  <br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KhushiPanghal&theme=rose_pine" alt="Repos per Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KhushiPanghal&theme=rose_pine" alt="Most Commit Language"/>
 </p>
 
 ---
