@@ -24,15 +24,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=khushiiiip&theme=rose_pine" alt="Khushi's Contribution Graph" />
 </p>
 
-### 🧭 My Activity Overview
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=khushiiiip&theme=rose_pine" alt="Khushi's Productive Time"/>
-  <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khushiiiip&theme=rose_pine" alt="Khushi's GitHub Stats Summary"/>
-  <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=khushiiiip&theme=rose_pine" alt="Repos per Language"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=khushiiiip&theme=rose_pine" alt="Most Commit Language"/>
-</p>
+
 
 ---
 
