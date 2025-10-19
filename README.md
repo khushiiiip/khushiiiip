@@ -48,7 +48,7 @@
 
 ---
 <p align="center">
-  I'm always up to discuss movies 😁
+  Movies are my thing, happy to talk anytime 😁
 </p>
 
 
