@@ -17,6 +17,13 @@
 - 🌻 I love making things that blend **logic, color, and a little magic**.  
 
 ---
+---
+
+### 📈 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=khushiiiip&theme=rose_pine" alt="Khushi's Contribution Graph" />
+</p>
+---
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=khushiiiip&show_icons=true&theme=rose_pine" alt="GitHub Stats" />
