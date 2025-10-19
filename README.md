@@ -35,9 +35,8 @@
 ### ☕ Fun Little Things  
 > 🌳 I have a favorite tree outside my window — it’s my coding buddy.  
 >  
-> 🎬 When I’m not debugging, I’m watching Pixar movies (Wall-E and Ratatouille are comfort classics).  
->  
-> 🎧 My playlist is a mix of calm instrumentals, indie chaos, and lo-fi beats that keep me in flow.  
+> 🎬 When I’m not debugging, I’m watching Pixar movies (Wall-E, Ratatouille, list is endless!!).  
+  
 
 ---
 ### 📫 Let’s Connect
