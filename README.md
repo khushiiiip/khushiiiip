@@ -19,14 +19,6 @@
 ---
 ---
 
-### 📈 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=khushiiiip&theme=rose_pine" alt="Khushi's Contribution Graph" />
-</p>
-
-
-
----
 
 ### ⚙️ Tech Stack
 <p align="center">
