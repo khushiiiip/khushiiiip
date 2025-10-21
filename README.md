@@ -11,9 +11,9 @@
 ### 🌸 About Me  
 - 🎓 I’m an **undergraduate engineering student** exploring tech, creativity, and open source.  
 - 💡 Currently learning **Julia**, and fascinated by how numbers can come alive through code.  
-- ✨ I’m drawn to **math, probability, and problem-solving** — but I also have a soft spot for design.  
-- 🌳 Most of my ideas come to me while staring at the **tree outside my window** — my daily source of calm.  
-- 🎬 Big fan of **Pixar movies** — they remind me how storytelling and imagination can spark emotion (and code can, too!).  
+- ✨ I’m drawn to **math, probability, and problem-solving** - but I also have a soft spot for design.  
+- 🌳 Most of my ideas come to me while staring at the **tree outside my window** - my daily source of calm.  
+- 🎬 Big fan of **Pixar movies** - they remind me how storytelling and imagination can spark emotion (and code can, too!).  
 - 🌻 I love making things that blend **logic, color, and a little magic**.  
 
 ---
